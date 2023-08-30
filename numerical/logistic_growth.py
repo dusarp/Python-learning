@@ -1,4 +1,12 @@
 import numpy as np
+import matplotlib.pyplot as plt
+
+#logistic growth equation, models population growth with a carrying capacity
+#Where y represents the population, t is the time, r: growth rate, K: carrying capacity of the environment. 
+
+#dydt is the dy/dt, derivative of the population (y) with respect to time (t)
+
+
 
 def rk4(f, y0, t):
     """Solve ODE using fourth-order Runge-Kutta method.
@@ -29,24 +37,20 @@ def rk4(f, y0, t):
         y[i] = y[i-1] + (1/6)*(k1 + 2*k2 + 2*k3 + k4)*dt
 
     return y
-#print("lefutott?")
-#csinalok egy kis demot is vele:
 
+def logistic_growth(y, t):
+    r = 0.1
+    K = 1000
+    dydt = r * y * (1 - y / K)
+    return dydt
 
-#use it
-import matplotlib.pyplot as plt 
-#ez a diff egyenlet: y' = -y (dy/dt = - y)
-def f(y, t):
-    return -y
+y0 = 10.0  # Initial population
+t = np.linspace(0, 50, 1001)  # Time points
 
-#initial condition 
-y0 = 1.0
-t = np.linspace(0, 10, 101)
-
-y = rk4(f, y0, t)
+y = rk4(logistic_growth, y0, t)
 
 plt.plot(t, y)
 plt.xlabel('t')
-plt.ylabel('y')
+plt.ylabel('Population')
+plt.title('Logistic Growth')
 plt.show()
-
