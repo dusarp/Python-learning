@@ -1,0 +1,27 @@
+- csinalni egy web scraping aplikaciot, ami lementi a 021-rol az osszes hir cimet 
+
+https://github.com/egonSchiele/grokking_algorithms/tree/master/01_introduction_to_algorithms/python
+
+egy kepnezegeto programot irni Pythonban (Tkinter)
+
+fogni a ftn oldalat es az erdekes tantargyak literaturajat megsasoslni.
+
+ezt megcsinalom: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+Blogot inditani (angol iras gyakorlas + ML/DL gyakorlas + visibility)
+
+https://www.codeproject.com/Articles/4023566/Cat-or-Not-An-Image-Classifier-using-Python-and-Ke
+
+hdf5-tel foglalkozni 
+
+megnezni: API for beginners https://www.youtube.com/watch?v=WXsD0ZgxjRw 
+
+Genetic algorithmsre ranezni
+
+Quantum algorithmsra is kivancsi vagyok (az a konyvem a Barcsiknal van, 3 konyvem van nala)
+
+Tensorflow tutorialokat bujni, h hogy kell atalakitani a datat
+https://www.tensorflow.org/tutorials/load_data/images 
+
+h ez mukodjon:
+https://stackoverflow.com/questions/65600884/tensorflow-implementation-of-andrew-ngs-cat-vs-non-cat-example-coursera
