@@ -4,10 +4,26 @@ conda create -n "Raschka-book" python=3.9 numpy=1.21.2 scipy=1.10.0 scikit-learn
 
 existing enviroments: conda info --envs
 
-To activate this environment, use
+To activate this environment, use:
 #
 #     $ conda activate Raschka-book
 #
 # To deactivate an active environment, use
 #
 #     $ conda deactivate
+
+Anaconda update 
+
+#update the conda package manager to the latest version //ez frissiti a base osszes csomagjat
+conda update conda
+#use conda to update Anaconda to the latest version //ez pedig magat az Anaconda managert
+conda update anaconda
+
+error: "package is not installed in prefix"
+
+megoldas:
+conda install anaconda
+
+de ha csak az Anaconda navigatort akarod updatelni, akkor:
+conda deactivate
+conda update anaconda-navigator
