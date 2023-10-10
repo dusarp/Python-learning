@@ -1,0 +1,13 @@
+itt a scipy 1.7.0 helyett a scipy 1.10.0 -t hasznalom (a tobbi ugyanaz)
+
+conda create -n "Raschka-book" python=3.9 numpy=1.21.2 scipy=1.10.0 scikit-learn=1.0 matplotlib=3.4.3 pandas=1.3.2 
+
+existing enviroments: conda info --envs
+
+To activate this environment, use
+#
+#     $ conda activate Raschka-book
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
