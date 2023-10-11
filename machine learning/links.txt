@@ -1,0 +1,16 @@
+Some advice for beginners:
+https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
+
+Ez jo csatorna:
+https://www.youtube.com/watch?v=8iIdWHjleIs&ab_channel=AlgorithmicSimplicity
+
+Web scraping tutorial:
+#ez jo adat szerzesre
+https://www.youtube.com/watch?v=mBoX_JCKZTE&ab_channel=freeCodeCamp.org
+
+Sebastian Raschka DL and generative model
+https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=1&ab_channel=SebastianRaschka
+
+Convolutional NN for Beginners (hot dog or not hot dog)
+https://www.youtube.com/watch?v=nVhau51w6dM&ab_channel=freeCodeCamp.org 
+

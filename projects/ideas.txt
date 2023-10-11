@@ -25,3 +25,5 @@ https://www.tensorflow.org/tutorials/load_data/images
 
 h ez mukodjon:
 https://stackoverflow.com/questions/65600884/tensorflow-implementation-of-andrew-ngs-cat-vs-non-cat-example-coursera
+
+Rasberry Pi + pi hole 
