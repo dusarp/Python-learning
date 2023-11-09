@@ -1,4 +1,4 @@
-# my Python-learning journy
+# my Python-learning journey
 
 in this repo I collect:
 - Python algorithms
