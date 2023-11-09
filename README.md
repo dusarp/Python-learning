@@ -1,8 +1,10 @@
-# Python-learning
+# my Python-learning journy
 
-ide teszem a:
-- Python kiprobalasokat
-- numerikus algoritmusokat irogatok (linearis algebra, diferencialis egyenletek etc)
-- programozoi algoritmusokat
-- a ML cuccokat
-- a DL cuccokat
+in this repo I collect:
+- Python algorithms
+- numerical algorithms (linear algebra, differential equations etc)
+- Scientific computing 
+- Machine Learning stuff
+- ML practise projects
+- maybe some day also Deep Learning
+- ... 
