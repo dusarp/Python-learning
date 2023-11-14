@@ -27,3 +27,6 @@ conda install anaconda
 de ha csak az Anaconda navigatort akarod updatelni, akkor:
 conda deactivate
 conda update anaconda-navigator
+
+
+install mlxtend: conda install mlxtend
