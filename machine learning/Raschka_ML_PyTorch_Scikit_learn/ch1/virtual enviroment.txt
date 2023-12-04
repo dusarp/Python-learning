@@ -30,3 +30,7 @@ conda update anaconda-navigator
 
 
 install mlxtend: conda install mlxtend
+
+remove: conda remove --name Raschka-book --all
+new enviroment with torch 1.12.1 and torchvision 0.13.1
+conda create -n "Raschka-book" python=3.9 numpy=1.21.2 scipy=1.10.0 scikit-learn=1.0 matplotlib=3.4.3 pandas=1.3.2 pytorch torchvision
