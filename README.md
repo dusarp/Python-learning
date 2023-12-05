@@ -6,5 +6,5 @@ in this repo I collect:
 - Scientific computing 
 - Machine Learning stuff
 - ML practise projects
-- maybe some day also Deep Learning
-- ... 
+- deep learning from scratch
+- deep learning practise projects
