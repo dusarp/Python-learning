@@ -1,0 +1,1 @@
+ conda create -n "pictures-start" python numpy scipy pandas matplotlib pillow pytorch
